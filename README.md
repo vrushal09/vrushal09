@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vrushal09&label=Profile%20views&color=0e75b6&style=flat" alt="vrushal09" /> </p>
 
-- 🔭 I’m currently working on [InkCode](https://github.com/vrushal09/InkCode)
+- 🔭 I’m currently working on [PassNext](https://github.com/vrushal09/PassNext)
 
 - 🌱 I’m currently learning **MERN Stack, AI, Pandas**
 
