@@ -20,7 +20,4 @@
   <a href="https://instagram.com/mehta_vrushal_09" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mehta_vrushal_09" height="30" width="40" />
   </a>
-  <a href="https://www.behance.net/vrushalstudios" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="vrushal studios" height="30" width="40" />
-  </a>
 </p>
