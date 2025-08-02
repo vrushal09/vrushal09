@@ -9,7 +9,7 @@
 
 ---
 
-- 🔭 I’m currently working on **[PassNext](https://github.com/vrushal09/PassNext)** – a password manager app built with Expo and Firebase  
+- 🔭 I’m currently refining **[GitMorph](https://github.com/vrushal09/GitMorph)** – a Automation tool for github commits
 - 🌱 Currently learning: **React-Native**, **AI**, **Pandas**, and real-world UI/UX system design  
 - 👨‍💻 All of my projects are available at: [https://www.mehtavrushal.me](https://www.mehtavrushal.me)  
 - 📫 Reach me at: **vrushal.com@gmail.com**  
