@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vrushal</h1>
 <h3 align="center">
-    A B.Sc IT student passionate about App Development (React Native), Animation, and AI/ML. Currently diving into projects involving system design, data management, visual insights, and focused on UI/UX branding.
+    A B.Sc IT student passionate about App Development (React Native), Animation, Full Stack Development and AI/ML. Currently diving into projects involving system design, data management, visual insights, and focused on UI/UX branding.
 </h3>
 
 <p align="center">
