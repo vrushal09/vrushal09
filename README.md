@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vrushal</h1>
-<h3 align="center">A B.Sc IT student passionate about AI, UI/UX, and full-stack development. Currently diving into the App Development (React Native) and working on projects that involve system design, data management, and visual insights.</h3>
+<h3 align="center">
+    A B.Sc IT student passionate about App Development (React Native), Animation, and AI/ML. Currently diving into projects involving system design, data management, visual insights, and focused on UI/UX branding.
+</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vrushal09&label=Profile%20views&color=0e75b6&style=flat" alt="vrushal09" />
