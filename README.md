@@ -1,32 +1,36 @@
 <!-- Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=f5f5f5&height=140&section=header&text=Vrushal%20Mehta&fontSize=42&fontColor=111111&fontAlignY=55&desc=B.Sc%20IT%20Student%20|%20Developer%20|%20AI%20Enthusiast&descAlignY=80&descSize=16&font=Montserrat" alt="Vrushal Mehta Banner"/>
+<p align="center" style="background:#f5f5f5; padding:30px 20px;">
+  <span style="font-size:40px; font-weight:600; color:#111111; font-family:Arial, Helvetica, sans-serif;">
+    Vrushal Mehta
+  </span>
+  <br/>
+  <span style="font-size:16px; font-weight:400; color:#444444; font-family:Arial, Helvetica, sans-serif;">
+    I build apps, play with AI, and break stuff (so I can fix it better)
+  </span>
 </p>
 
 ---
 
-<h2 align="left">About Me</h2>
+## Hey 👋
 
-<p>
-I’m a B.Sc IT student passionate about building tools and systems that combine technology and design.  
-My focus areas are system design, data management, visual insights, and creating strong UI/UX experiences.  
-Currently working with React Native, Full Stack Development, Animation, and AI/ML.
-</p>
+I’m Vrushal — a B.Sc IT student who loves mixing **tech + creativity**.  
+Most days you’ll find me experimenting with **apps, full stack projects, and random AI ideas**.  
+I enjoy designing things that not only *work* but also *look good*.  
 
 ---
 
-<h2 align="left">Work</h2>
+## What I'm Doing
 
-- Currently refining <a href="https://github.com/vrushal09/GitMorph"><b>GitMorph</b></a> — an automation tool for GitHub commits  
-- Exploring React Native, AI, Pandas, and real-world UI/UX system design  
-- All projects and updates on <a href="https://www.mehtavrushal.me">mehtavrushal.me</a>  
+- Tweaking [**GitMorph**](https://github.com/vrushal09/GitMorph) → my sidekick that automates GitHub commits  
+- Diving deeper into **React Native**, **AI/ML**, and **UI/UX design**  
+- Building projects, testing ideas, and learning as I go  
 
 ---
 
-<h2 align="left">Contact</h2>
+## Reach Out
 
-<p>Email: <a href="mailto:vrushal.com@gmail.com">vrushal.com@gmail.com</a></p>
-<p>Portfolio: <a href="https://www.mehtavrushal.me">mehtavrushal.me</a></p>
+- Mail me → [vrushal.com@gmail.com](mailto:vrushal.com@gmail.com)  
+- Portfolio → [mehtavrushal.me](https://www.mehtavrushal.me)  
 
 <p align="left">
   <a href="https://instagram.com/mehta_vrushal_09" target="_blank">
