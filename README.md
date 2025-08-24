@@ -1,15 +1,13 @@
 <!-- Banner -->
-<p align="center" style="background:#f5f5f5; padding:30px 20px;">
-  <span style="font-size:40px; font-weight:600; color:#111111; font-family:Arial, Helvetica, sans-serif;">
-    Vrushal Mehta
-  </span>
-  <br/>
-  <span style="font-size:16px; font-weight:400; color:#444444; font-family:Arial, Helvetica, sans-serif;">
+<p align="center">
+  <h1 align="center">Vrushal Mehta</h1>
+  <p align="center">
     I build apps, play with AI, and break stuff (so I can fix it better)
-  </span>
+  </p>
 </p>
 
 ---
+
 
 ## Hey 👋
 
