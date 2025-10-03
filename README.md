@@ -28,7 +28,7 @@ I enjoy designing things that not only *work* but also *look good*.
 ## Reach Out
 
 - Mail me → [vrushal.com@gmail.com](mailto:vrushal.com@gmail.com)  
-- Portfolio → [mehtavrushal.me](https://www.mehtavrushal.me)  
+- Portfolio → [mehtavrushal.me](https://vrushal-studios-me.vercel.app/)
 
 <p align="left">
   <a href="https://instagram.com/mehta_vrushal_09" target="_blank">
