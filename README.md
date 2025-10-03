@@ -37,7 +37,7 @@ I enjoy designing things that not only *work* but also *look good*.
   <a href="mailto:vrushal.com@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=ffffff" />
   </a>
-  <a href="https://www.mehtavrushal.me" target="_blank">
+  <a href="https://vrushal-studios-me.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=google-chrome&logoColor=ffffff" />
   </a>
 </p>
