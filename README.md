@@ -19,7 +19,7 @@ I enjoy designing things that not only *work* but also *look good*.
 
 ## What I'm Doing
 
-- Tweaking [**GitMorph**](https://github.com/vrushal09/GitMorph) → my sidekick that automates GitHub commits  
+- Tweaking PassNext, my sidekick that remembers passwords so I don’t have to 😏
 - Diving deeper into **React Native**, **AI/ML**, and **UI/UX design**  
 - Building projects, testing ideas, and learning as I go  
 
