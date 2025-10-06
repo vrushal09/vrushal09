@@ -1,49 +1,21 @@
-<!-- Banner -->
-<p align="center">
-  <h1 align="center">Vrushal Mehta</h1>
-  <p align="center">
-    I build apps, play with AI, and break stuff (so I can fix it better)
-  </p>
-</p>
+👋 Hey, I’m **Vrushal Mehta**
+=============================
 
----
+> I build apps, play with AI, and sometimes break stuff — just to fix it better 😉
 
+### 🧠 About Me
 
-## Hey 👋
+I’m a **B.Sc IT student** who loves blending **tech and creativity**.Most days, you’ll find me tinkering with code, designing slick UIs, or bringing random AI ideas to life.I like making things that **work smart, look good,** and maybe even make someone go “whoa.”
 
-I’m Vrushal — a B.Sc IT student who loves mixing **tech + creativity**.  
-Most days you’ll find me experimenting with **apps, full stack projects, and random AI ideas**.  
-I enjoy designing things that not only *work* but also *look good*.  
+### 🚀 What I’m Up To
 
----
+*   ⚙️ **Tweaking** [**PassNext**](#) — my sidekick that remembers passwords so I don’t have to 😏
+    
+*   📱 Diving deep into **React Native**, **AI/ML**, and **UI/UX design**
+    
+*   💡 Building, breaking, testing, and learning — on repeat
+    
 
-## What I'm Doing
+### 💬 Let’s Connect
 
-- Tweaking PassNext, my sidekick that remembers passwords so I don’t have to 😏
-- Diving deeper into **React Native**, **AI/ML**, and **UI/UX design**  
-- Building projects, testing ideas, and learning as I go  
-
----
-
-## Reach Out
-
-- Mail me → [vrushal.com@gmail.com](mailto:vrushal.com@gmail.com)  
-- Portfolio → [mehtavrushal.me](https://vrushal-studios-me.vercel.app/)
-
-<p align="left">
-  <a href="https://instagram.com/mehta_vrushal_09" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=ffffff" />
-  </a>
-  <a href="mailto:vrushal.com@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=ffffff" />
-  </a>
-  <a href="https://vrushal-studios-me.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=google-chrome&logoColor=ffffff" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vrushal09&label=Profile%20Views&color=111111&style=flat-square" alt="profile views"/>
-</p>
+📧 **Mail:** vrushal.com@gmail.com🌐 **Portfolio:** [mehtavrushal.me](https://mehtavrushal.me)
