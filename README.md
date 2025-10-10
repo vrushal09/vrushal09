@@ -11,7 +11,7 @@ I’m a **B.Sc IT student** who loves blending **tech and creativity**.Most days
 
 *   ⚙️ **Tweaking** [**PassNext**](#) — my sidekick that remembers passwords so I don’t have to 😏
     
-*   📱 Diving deep into **React Native**, **AI/ML**, and **UI/UX design**
+*   📱 Diving deep into **OS**, **System Design**, and **AI / ML**
     
 *   💡 Building, breaking, testing, and learning — on repeat
     
