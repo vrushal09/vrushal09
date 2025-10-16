@@ -5,7 +5,12 @@
 
 ### 🧠 About Me
 
-I’m a **B.Sc IT student** who loves blending **tech and creativity**.Most days, you’ll find me tinkering with code, designing slick UIs, or bringing random AI ideas to life.I like making things that **work smart, look good,** and maybe even make someone go “whoa.”
+I’m Vrushal Mehta, an aspiring System Software Developer with a strong foundation in Android
+development and Full Stack Development. I completed a 4-week design internship at CityNect, where I
+enhanced social media engagement by 15%. I’ve also built several projects that have gained 150+
+active users. Alongside development, I possess creative expertise in 3D Animation and Motion Design,
+allowing me to craft applications that not only perform efficiently but also deliver a seamless and visually
+engaging user experience.
 
 ### 🚀 What I’m Up To
 
