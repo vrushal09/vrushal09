@@ -23,4 +23,4 @@ engaging user experience.
 
 ### 💬 Let’s Connect
 
-📧 **Mail:** vrushal.com@gmail.com🌐 **Portfolio:** [mehtavrushal.me](https://mehtavrushal.me)
+📧 **Mail:** vrushal.com@gmail.com🌐 **Portfolio:** [mehtavrushal.me](https://vrushal-studios-me.vercel.app/)
