@@ -5,12 +5,11 @@
 
 ### 🧠 About Me
 
-I’m Vrushal Mehta, an aspiring System Software Developer with a strong foundation in Android
-development and Full Stack Development. I completed a 4-week design internship at CityNect, where I
-enhanced social media engagement by 15%. I’ve also built several projects that have gained 150+
-active users. Alongside development, I possess creative expertise in 3D Animation and Motion Design,
-allowing me to craft applications that not only perform efficiently but also deliver a seamless and visually
-engaging user experience.
+Aspiring Python Backend Developer with around 1 year of hands-on, project-based experience building
+backend systems and REST APIs. Experienced with FastAPI, Flask, databases (MySQL, MongoDB,
+Firebase), and API-driven AI integrations. Seeking my first full-time on-site role to gain industry
+exposure, strengthen full-stack skills, and grow under mentorship in a collaborative development
+environment.
 
 ### 🚀 What I’m Up To
 
