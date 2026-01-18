@@ -5,17 +5,15 @@
 
 ### 🧠 About Me
 
-Aspiring Python Backend Developer with around 1 year of hands-on, project-based experience building
-backend systems and REST APIs. Experienced with FastAPI, Flask, databases (MySQL, MongoDB,
-Firebase), and API-driven AI integrations. Seeking my first full-time on-site role to gain industry
-exposure, strengthen full-stack skills, and grow under mentorship in a collaborative development
-environment.
+I’m a hands-on developer with around 1 year of project-based experience building real-world systems.I enjoy working on backend logic, APIs, databases, and AI-powered features. I’ve built and shippedprojects using FastAPI, Flask, MySQL, MongoDB, Firebase, and various API-driven integrations.
+
+I like understanding how things work under the hood — from system design to performance trade-offs —and I’m constantly learning by building, experimenting, and iterating.
 
 ### 🚀 What I’m Up To
 
 *   ⚙️ **Tweaking** [**PassNext**](#) — my sidekick that remembers passwords so I don’t have to 😏
     
-*   📱 Diving deep into **OS**, **System Design**, and **AI / ML**
+*   📱 Diving deep into **Operating Systems**, **System Design**, and **AI / ML**
     
 *   💡 Building, breaking, testing, and learning — on repeat
     
