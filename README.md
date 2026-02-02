@@ -1,23 +1,30 @@
-👋 Hey, I’m **Vrushal Mehta**
-=============================
+👋 Hi, I’m Vrushal Mehta
+======================
 
-> I build apps, play with AI, and sometimes break stuff — just to fix it better 😉
+Backend-leaning developer with a strong interest in systems, data, and applied AI.  
+I enjoy building real-world products, understanding how they work internally, and improving them through iteration.
+
+---
 
 ### 🧠 About Me
 
-I’m a hands-on developer with around 1 year of project-based experience building real-world systems.I enjoy working on backend logic, APIs, databases, and AI-powered features. I’ve built and shippedprojects using FastAPI, Flask, MySQL, MongoDB, Firebase, and various API-driven integrations.
+I’m a hands-on developer with around **1 year of project-based experience**, working on production-style applications and internal tools. My work primarily focuses on **backend development, APIs, databases, and data-driven features**.
 
-I like understanding how things work under the hood — from system design to performance trade-offs —and I’m constantly learning by building, experimenting, and iterating.
+I’ve built and shipped projects using **FastAPI, Flask, MySQL, MongoDB, Firebase**, and various third-party APIs. Alongside development, I actively explore **system design concepts, performance trade-offs, and scalability considerations**.
 
-### 🚀 What I’m Up To
+I believe in learning by building — breaking things, fixing them, and refining them until they work better.
 
-*   ⚙️ **Tweaking** [**PassNext**](#) — my sidekick that remembers passwords so I don’t have to 😏
-    
-*   📱 Diving deep into **Operating Systems**, **System Design**, and **AI / ML**
-    
-*   💡 Building, breaking, testing, and learning — on repeat
-    
+---
+
+### 🚀 Current Focus
+
+- ⚙️ Improving **PassNext** — a secure password-management utility  
+- 📊 Exploring **Operating Systems, System Design, and AI / ML fundamentals**  
+- 🛠️ Building practical tools, experimenting with ideas, and strengthening core concepts  
+
+---
 
 ### 💬 Let’s Connect
 
-📧 **Mail:** vrushal.com@gmail.com🌐 **Portfolio:** [mehtavrushal.me](https://vrushal-studios-me.vercel.app/)
+📧 **Email:** vrushal.com@gmail.com  
+🌐 **Portfolio:** https://vrushal-studios-me.vercel.app/
