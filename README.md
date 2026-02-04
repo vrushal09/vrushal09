@@ -27,4 +27,4 @@ I believe in learning by building — breaking things, fixing them, and refining
 ### 💬 Let’s Connect
 
 📧 **Email:** vrushal.com@gmail.com  
-🌐 **Portfolio:** https://vrushal-studios-me.vercel.app/
+🌐 **Portfolio:** [vrushalmehta.in](https://www.vrushalmehta.in/)
