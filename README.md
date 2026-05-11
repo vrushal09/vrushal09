@@ -1,30 +1,26 @@
-👋 Hi, I’m Vrushal Mehta
-======================
+# 👋 Hi, I’m Vrushal Mehta
 
-Backend-leaning developer with a strong interest in systems, data, and applied AI.  
-I enjoy building real-world products, understanding how they work internally, and improving them through iteration.
+Data Analyst and Spatial Data Analyst with hands-on experience in data processing, ETL pipeline development, workflow automation, and large-scale data management systems.
 
----
+Experienced in working with GIS and spatial data formats including GeoJSON, KML, Shapefiles, and map tile data, along with building automated pipelines for real-world geospatial applications. Familiar with Redis, system design, and scalable architecture concepts to develop efficient and reliable data solutions.
 
-### 🧠 About Me
-
-I’m a hands-on developer with around **1 year of project-based experience**, working on production-style applications and internal tools. My work primarily focuses on **backend development, APIs, databases, and data-driven features**.
-
-I’ve built and shipped projects using **FastAPI, Flask, MySQL, MongoDB, Firebase**, and various third-party APIs. Alongside development, I actively explore **system design concepts, performance trade-offs, and scalability considerations**.
-
-I believe in learning by building — breaking things, fixing them, and refining them until they work better.
+Passionate about transforming complex datasets into actionable insights, optimizing workflows, and continuously improving analytical, technical, and problem-solving skills.
 
 ---
 
-### 🚀 Current Focus
+## 💼 Core Skills
 
-- ⚙️ Improving **PassNext** — a secure password-management utility  
-- 📊 Exploring **Operating Systems, System Design, and AI / ML fundamentals**  
-- 🛠️ Building practical tools, experimenting with ideas, and strengthening core concepts  
+- Data Processing & ETL Pipelines  
+- GIS & Spatial Data Analysis  
+- GeoJSON, KML, Shapefiles & Map Tiles  
+- Workflow Automation  
+- Redis & Scalable Data Systems  
+- System Design & Architecture Fundamentals  
+- Data Optimization & Large-Scale Processing  
 
 ---
 
-### 💬 Let’s Connect
+## 💬 Let’s Connect
 
 📧 **Email:** vrushal.com@gmail.com  
 🌐 **Portfolio:** [vrushalmehta.in](https://www.vrushalmehta.in/)
